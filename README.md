@@ -1,4 +1,6 @@
-# RNA_Feedforward
+# RNA Feedforward
+
+![Redes Neuronales](Image/RNA.jpg)
 
 Laboratorio 1 - Machine Learning Avanzado
 
